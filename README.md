@@ -22,12 +22,12 @@
 
 ###
 
-<img align="left" height="200" src="https://image2url.com/r2/default/images/1775009965483-a484c6ea-4d68-4b10-b13a-8bc25b94e4d9.png"  />
+<img align="left" height="200" src="/images/SS.png"  />
 
 ###
 
 <div align="center">
-  <img height="200" src="https://image2url.com/r2/default/images/1775009918658-1ad8d080-ba89-4bf5-ba49-b0eaab1797d0.png"  />
+  <img height="200" src="/images/SL.jpg"  />
 </div>
 
 ###

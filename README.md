@@ -1,4 +1,4 @@
-<h1 align="center">Social-links-profile</h1>
+<h1 align="center">Landing Page</h1>
 
 ###
 
@@ -6,7 +6,9 @@
 
 ###
 
-<p align="left">This project is a website built with HTML and CSS. The goal of this project was to refresh and strengthen my web development skills, focusing on layout, styling, and responsive design basics.</p>
+<p align="left">
+This project is a website built with HTML and CSS. While working on it, I also practiced using Git to improve my version control skills, along with improving my CSS styling.
+</p>
 
 ###
 
@@ -14,7 +16,11 @@
 
 ###
 
-<p align="left">While creating this project, I faced some challenges mainly in CSS, including:<br><br>Understanding and implementing Flexbox correctly.<br>Managing padding and margin for layout adjustments.</p>
+<p align="left">
+While creating this project, I faced several challenges in CSS, including:<br><br>
+Understanding and using CSS Grid.<br>
+Creating multiple versions depending on the user (mobile or desktop).
+</p>
 
 ###
 
@@ -36,11 +42,11 @@
 
 ###
 
-<p align="left">Live Website : https://zee-cyberr.github.io/Social-links-profile/</p>
+<p align="left">Live Website : https://zee-cyberr.github.io/Landing-page/</p>
 
 ###
 
-<p align="left">Repository : https://github.com/Zee-cyberr/Social-links-profile</p>
+<p align="left">Repository : https://github.com/Zee-cyberr/Landing-page</p>
 
 ###
 
@@ -56,6 +62,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 ###
@@ -64,7 +72,9 @@
 
 ###
 
-<p align="left">It had been a long time since I last used my HTML and CSS skills. This project helped me refresh my knowledge and strengthen my foundation to eventually expand into HTML + JavaScript.</p>
+<p align="left">
+I learned how to use CSS Grid and how to create different versions of a website depending on the user's device (mobile or desktop).
+</p>
 
 ###
 
@@ -72,7 +82,9 @@
 
 ###
 
-<p align="left">Next, I want to focus on:<br><br>Deepening my understanding of CSS, especially Flexbox.<br>Improving layout and spacing techniques for more complex designs.</p>
+<p align="left">
+I want to become more comfortable using CSS and be able to work without encountering problems. I aim to keep improving by building more projects.
+</p>
 
 ###
 
@@ -80,7 +92,9 @@
 
 ###
 
-<p align="left">W3Schools<br> – A helpful reference to recall HTML & CSS elements. (Not used directly this time, but useful in previous practice)</p>
+<p align="left">
+YouTube has everything I needed to learn and solve problems during this project.
+</p>
 
 ###
 
@@ -88,7 +102,9 @@
 
 ###
 
-<p align="left">No AI tools were used for this project. This challenge helped me rely solely on my own skills.</p>
+<p align="left">
+No AI tools were used for this project. This challenge helped me rely solely on my own skills.
+</p>
 
 ###
 
@@ -96,6 +112,9 @@
 
 ###
 
-<p align="left">Initially, I thought this project would be simple, but I realized that even simple projects can expose gaps in foundational skills. Accepting the challenge of doing something simple helped me identify areas for improvement and reinforced my learning journey.</p>
+<p align="left">
+I successfully created the mobile version of the project. However, while building the desktop version, I faced multiple challenges because it was my first time using CSS Grid.<br><br>
+By continuing to build projects, I have noticed that the time it takes me to complete them is decreasing.
+</p>
 
 ###

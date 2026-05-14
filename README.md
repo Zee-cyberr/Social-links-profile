@@ -42,7 +42,7 @@ Creating multiple versions depending on the user (mobile or desktop).
 
 ###
 
-<p align="left">Live Website : https://zee-cyberr.github.io/Landing-page/</p>
+<p align="left">Live Website : https://zee-cyberr.github.io/Social-links-profile/</p>
 
 ###
 

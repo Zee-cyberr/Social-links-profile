@@ -46,7 +46,7 @@ Creating multiple versions depending on the user (mobile or desktop).
 
 ###
 
-<p align="left">Repository : https://github.com/Zee-cyberr/Landing-page</p>
+<p align="left">Repository :https://github.com/Zee-cyberr/Social-links-profile</p>
 
 ###
 
